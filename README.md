@@ -31,7 +31,10 @@ This tool is strictly for authorized security testing and educational purposes o
 
 
 git clone https://github.com/ethicalpareek-sys/pareek-cybersecurity.git
+
 cd pareek-cybersecurity
+
+use python pareek.py   to run
 
 
 🛠️ Usage
