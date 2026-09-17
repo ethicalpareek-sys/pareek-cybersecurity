@@ -1,6 +1,28 @@
-# PAREEK - Cybersecurity Recon Assistant for Termux
 
-A single-file, lightweight cybersecurity toolkit designed to run smoothly on Termux (Android). 
+<div align="center">
+
+# 🛡️ PAREEK
+
+### Cybersecurity Recon Assistant for Termux
+
+**Turn Your Android Phone into a Portable Hacking Machine.**
+
+[![Made for Termux](https://img.shields.io/badge/Made%20for-Termux-00b894?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://termux.dev)
+[![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/ethicalpareek-sys/pareek-cybertool?style=for-the-badge&color=gold)](https://github.com/ethicalpareek-sys/pareek-cybertool/stargazers)
+
+**13 Powerful Modules in a Single Python File — No Root Needed!**
+
+</div>
+
+---
+
+**PAREEK** is a lightweight, single-file cybersecurity toolkit built specifically for **Termux (Android)**. Whether you are a beginner learning cybersecurity or a professional doing authorized reconnaissance, PAREEK gives you everything you need in one simple command.
+
+---
+
+ 
 
 
 ⚠️ Disclaimer
