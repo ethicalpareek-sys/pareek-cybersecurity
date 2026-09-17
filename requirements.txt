@@ -1,0 +1,6 @@
+cd ~
+cat > requirements.txt << 'EOF'
+requests>=2.31.0
+dnspython>=2.4.0
+python-whois>=0.9.4
+EOF
