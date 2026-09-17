@@ -2,6 +2,13 @@
 
 A single-file, lightweight cybersecurity toolkit designed to run smoothly on Termux (Android). 
 
+
+⚠️ Disclaimer
+
+This tool is strictly for authorized security testing and educational purposes only. The author is not responsible for any misuse or damage caused by this program.
+
+
+
 ## 🚀 Features
 - Information Gathering (WHOIS, DNS, IP info)
 - Network Discovery (TCP Port Scanning)
@@ -43,10 +50,3 @@ python pareek.py report -f html
 
 
 
-
-
-
-
-⚠️ Disclaimer
-
-This tool is strictly for authorized security testing and educational purposes only. The author is not responsible for any misuse or damage caused by this program.
