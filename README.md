@@ -40,3 +40,8 @@ python pareek.py subdomain tesla.com
 python pareek.py vuln "apache 2.4.49"
 python pareek.py password "P@ssw0rd!2024"
 python pareek.py report -f html
+
+
+⚠️ Disclaimer
+
+This tool is strictly for authorized security testing and educational purposes only. The author is not responsible for any misuse or damage caused by this program.
