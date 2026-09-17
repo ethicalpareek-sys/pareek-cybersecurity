@@ -21,3 +21,22 @@ A single-file, lightweight cybersecurity toolkit designed to run smoothly on Ter
    pkg update && pkg upgrade -y
    pkg install python git clang make libffi openssl libxml2 libxslt ca-certificates -y
    pip install requests dnspython python-whois
+
+
+git clone https://github.com/ethicalpareek-sys/pareek-cybersecurity.git
+cd pareek-cybersecurity
+
+
+🛠️ Usage
+
+Run the tool using Python:
+
+```bash
+python pareek.py recon example.com
+python pareek.py portscan scanme.nmap.org
+python pareek.py webcheck https://example.com
+python pareek.py sslcheck example.com
+python pareek.py subdomain tesla.com
+python pareek.py vuln "apache 2.4.49"
+python pareek.py password "P@ssw0rd!2024"
+python pareek.py report -f html
